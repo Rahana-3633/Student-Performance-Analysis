@@ -1,0 +1,27 @@
+STUDENT PERFORMANCE ANALYSIS
+
+1. Introduction
+This project analyzes student academic performance using R programming.
+
+2. Objectives
+- Analyze student performance across departments.
+- Calculate average marks and percentages.
+- Classify students as Top, Average, and Weak.
+- Visualize results using charts.
+
+3. Dataset
+The dataset contains 20,000 student records with student ID, name, gender, department, attendance, assignments, Series 1 marks, and Series 2 marks.
+
+4. Tools Used
+- R
+- RStudio
+- CSV dataset
+- GitHub
+
+5. Data Visualization
+- Pie chart: Students in each department.
+- Bar chart: Top, Average, and Weak students.
+- Line graph: Performance categories across departments.
+
+6. Conclusion
+This project uses R to analyze student data and present performance results through charts.
